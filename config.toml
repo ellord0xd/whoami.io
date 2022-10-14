@@ -35,8 +35,8 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "Micro0x00"
-  pcName = "Space"
+  userName = "ellord0xd"
+  pcName = "rood"
   workDir = "mydir"
   profile = "whoami.txt"
 
@@ -62,9 +62,10 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Mohamed Mater!
-  Pentester & Developer
+  Hi I am Ebrahim aref !
+  Pentester & Bug Hunter 
   Nice to meet you!
+  
   
   
   """
@@ -78,11 +79,9 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Blog", "https://www.example.com/"],
-    ["Twitter", "https://www.twitter.com/Micro0x00"],
-    ["Github", "https://Github.com/Micro0x00"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["facebook", "https://www.facebook.com/eebbrraahhimm"],
+    ["Twitter", "https://twitter.com/Ellord0Xd"],
+    ["Github", "https://github.com/ellord0xd"],
   ]
 
 [module]
