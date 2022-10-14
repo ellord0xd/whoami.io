@@ -1,6 +1,6 @@
-baseURL = "https://micro0x00.github.io/whoami.io/"
+baseURL = "https://ellord0xd.github.io/whoami.io/"
 title = "Shell"
-# author = "Micro0x00"
+# author = "ellord"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
@@ -36,8 +36,8 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "Micro0x00"
-  pcName = "Space"
+  userName = "ellord0xd"
+  pcName = "rood"
   workDir = "mydir"
   profile = "whoami.txt"
 
@@ -63,8 +63,8 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Mohamed Mater!
-  Pentester & Developer
+  Hi I am Ebrahim aref !
+  Pentester & Bug Hunter 
   Nice to meet you!
   
   
@@ -79,9 +79,9 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Blog", "https://www.example.com/"],
-    ["Twitter", "https://www.twitter.com/Micro0x00"],
-    ["Github", "https://Github.com/Micro0x00"],
+    ["facebook", "https://www.facebook.com/eebbrraahhimm"],
+    ["Twitter", "https://twitter.com/Ellord0Xd"],
+    ["Github", "https://github.com/ellord0xd"],
    
   ]
 
