@@ -82,6 +82,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["facebook", "https://www.facebook.com/eebbrraahhimm"],
     ["Twitter", "https://twitter.com/Ellord0Xd"],
     ["Github", "https://github.com/ellord0xd"],
+    ["linkedin", "https://www.linkedin.com/in/ellord0xd"],
   ]
 
 [module]
